@@ -11,7 +11,7 @@ Raon Miru=拉昂·米鲁
 Ohn：温
 Hong：洪
 Alberu Crossman=阿尔贝鲁·克罗斯曼
-Alber：阿尔贝
+Alver Crossman=阿尔贝鲁·克罗斯曼
 Mary：梅丽
 Kim Rok Soo：金绿秀
 Choi Jung Soo：崔正秀
@@ -58,7 +58,7 @@ Redika：雷迪卡
 Choi Jung Gun：崔正郡
 Nelan Barrow=内兰·巴罗
 Pendrick：彭德里克
-Muller Han=穆勒·汉
+Muller=穆勒
 Maes：梅斯
 Adin：阿丁
 Valentno：瓦伦提诺
@@ -99,9 +99,10 @@ soo hyuk：秀赫
 jungsoo：正秀
 jung soo：正秀
 Lee：李
-
-
-
+Alber：阿尔贝
+Alver：阿尔贝
+Kyle：凯尔
+//其他特殊词汇
 Hyung: 哥
 Noona: 姐
 Ahjussi:叔叔
