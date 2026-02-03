@@ -1,4 +1,4 @@
-版本号：1.0.21
+版本号：1.0.22
 维护者：秋之鬼灯
 更新时间：2026-02-3
 
@@ -62,6 +62,7 @@ Muller=穆勒
 Maes：梅斯
 Adin：阿丁
 Kage：凯奇
+Cage：凯奇
 Valentno：瓦伦提诺
 Rex：雷克斯
 Adite：阿迪忒
@@ -79,7 +80,6 @@ Dorph：多尔夫
 Sayeru：萨耶鲁
 Dragon half-blood：龙混血
 Suikan：苏伊坎
-
 //地名
 Roan Kindom=罗安 王国
 Caro Kindom=卡罗 王国
@@ -89,6 +89,9 @@ Endable Kindom=永恒 王国
 Dark Forest：黑暗森林
 Rain City:雨城
 Puzzle City：谜城
+//其他
+Arm：暗
+
 通用词条
 //人名-散
 Rok Soo：绿秀
