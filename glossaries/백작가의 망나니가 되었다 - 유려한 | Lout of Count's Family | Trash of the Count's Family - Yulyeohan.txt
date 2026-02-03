@@ -3,83 +3,107 @@
 更新时间：2026-02-3
 
 词条
-Original Cale Henituse：原-凯尔·亨尼图斯
-Cale Henituse：凯尔·亨尼图斯
+//人名-整
+Original Cale Henituse=原-凯尔·亨尼图斯
+Cale Henituse=凯尔·亨尼图斯
 Choi Han：崔寒
-Raon Miru：拉昂·米鲁
+Raon Miru=拉昂·米鲁
 Ohn：温
 Hong：洪
-Alberu Crossman：阿尔贝鲁·克罗斯曼
+Alberu Crossman=阿尔贝鲁·克罗斯曼
 Alber：阿尔贝
 Mary：梅丽
-Choi Han：崔寒
 Kim Rok Soo：金绿秀
-Rok Soo：绿秀
 Choi Jung Soo：崔正秀
 Lee Soo Hyuk：李秀赫
-Beacrox Molan：比克罗斯·莫兰
-Vicross Molan：比克罗斯·莫兰
-Ron Molan：罗恩·莫兰
+Beacrox Molan=比克罗斯·莫兰
+Vicross Molan=比克罗斯·莫兰
+Ron Molan=罗恩·莫兰
 Eruhaben：埃鲁哈本
-Fredo von Ejellan：弗雷多·冯·艾杰兰
-Naru von Ejellan:纳鲁·冯·艾杰兰
+Fredo von Ejellan=弗雷多·冯·艾杰兰
+Naru von Ejellan=纳鲁·冯·艾杰兰
 Deruth：德鲁斯
 Basen：巴森
 Lily：莉莉
 Violan：维奥兰
-Eric Wheelsman：埃里克·惠斯曼
-Amiru Ubarr：阿米尔·乌巴尔
-Tasha：塔莎
-Zed Crossman：泽德·克罗斯曼
+Arche：阿奇
 White Star：白星
-Cale Barrow：凯尔·巴罗
+Cale Barrow=凯尔·巴罗
 Rosalyn：罗莎琳
 Lock：洛克
-Jour Thames：朱尔·泰晤士
-Drew Thames：朱尔·泰晤士
-Clophe Sekka：克罗佩·塞卡
-Bud Illis：巴德·伊利斯
+Jour Thames=朱尔·泰晤士
+Drew Thames=朱尔·泰晤士
+Clophe Sekka=克罗佩·塞卡
+Bud Illis=巴德·伊利斯
 Billos：比洛斯
-Taylor Stan：泰勒·斯坦
-Odeus Flynn：奥德乌斯·弗林
+Taylor Stan=泰勒·斯坦
 Toonka：图恩卡
 Paseton：帕塞顿
 Witira：维蒂拉
-Litana：莉塔娜
-Venion Stean：贝尼温·斯坦
-Neo Tolz：尼奥·托里斯
-Redika：雷迪卡
-Choi Jung Gun：崔正郡
-Nelan Barrow：内兰·巴罗
-Shawn：肖恩
-Obante：奥班特
-Pendrick：彭德里克
-Muller Han：穆勒·汉
-Maes：梅斯
 Hilsman：希尔斯曼
 Hans：汉斯
 Fteesia：小苍兰
 Hannah：汉娜
 Jack：杰克
 Gashan：加山
-Sonta Gyerre：索纳塔·吉耶尔
-Antonio Gyerre：安东尼奥·吉耶尔
+Eric Wheelsman=埃里克·惠斯曼
+Amiru Ubarr：阿米尔·乌巴尔
+Tasha：塔莎
+Zed Crossman=泽德·克罗斯曼
+Odeus Flynn=奥德乌斯·弗林
+Litana：莉塔娜
+Venion Stean=贝尼温·斯坦
+Neo Tolz=尼奥·托里斯
+Redika：雷迪卡
+Choi Jung Gun：崔正郡
+Nelan Barrow=内兰·巴罗
+Pendrick：彭德里克
+Muller Han=穆勒·汉
+Maes：梅斯
 Adin：阿丁
 Rex：雷克斯
 Adite：阿迪忒
 Dodori：多多里
 Mila：米拉
 Rasheel：拉谢尔
+Sherit：谢莉忒
+Kim Min Ah：金敏雅
+Glenn Poeff=格林·波夫
+Sonta Gyerre=索纳塔·吉耶尔
+Antonio Gyerre=安东尼奥·吉耶尔
+Shawn：肖恩
+Obante：奥班特
 Dorph：多尔夫
 Sayeru：萨耶鲁
 Dragon half-blood：龙混血
-Sherit：谢莉忒
-Kim Min Ah：金敏雅
-Glenn Poeff：格林·波夫
+Suikan：苏伊坎
 
+//地名
+Roan Kindom=罗安 王国
+Caro Kindom=卡罗 王国
+Breck Kindom=布雷克 王国
+Mogoru Empire=莫格鲁 帝国
+Endable Kindom=永恒 王国
+Dark Forest：黑暗森林
+Rain City:雨城
+Puzzle City：谜城
 通用词条
+//人名-散
+Rok Soo：绿秀
+Roksoo：绿秀
+Kim：金
+Choi：崔
+soohyuk：秀赫
+soo hyuk：秀赫
+jungsoo：正秀
+jung soo：正秀
+Lee：李
+
+
+
 Hyung: 哥
 Noona: 姐
+Ahjussi:叔叔
 God of Death：死亡之神
 Indestructible Shield：不破之盾
 Vitality of the heart：心脏的活力
@@ -94,12 +118,16 @@ the water of judgment：审判之水
 Sky Eating Water：吞天之水
 Retrogressive Water：叛逆之水
 Record：记录
-Roan Kindom：罗安 王国
-Caro Kindom：卡罗 王国
-Breck Kindom：布雷克 王国
-Mogoru Empire：莫格鲁 帝国
 Dragon Fear：龙威
 Ancient Power：古代力量
-Endable Kindom：永恒王国
-TBoaH：英雄的诞生
-TCF：成伯废
+
+
+禁翻词条
+// 此区域区分大小写，用于保持原文
+EDGE
+HUSH
+"Lout of Count's Family"
+"Trash of the Count's Family"
+"TCF"
+"TBoH"
+
