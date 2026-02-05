@@ -1,6 +1,6 @@
-版本号：1.0.22
+版本号：1.0.23
 维护者：秋之鬼灯
-更新时间：2026-02-3
+更新时间：2026-02-04
 
 词条
 //人名-整
@@ -127,6 +127,11 @@ Record：记录
 Dragon Fear：龙威
 Ancient Power：古代力量
 Cintamani：如意珠
+Eastern continent：东大陆
+Western continent：西大陆
+Duke：公爵
+Saint：圣子
+
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
