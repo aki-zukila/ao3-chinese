@@ -1,4 +1,4 @@
-版本号：1.0.10
+版本号：1.0.11
 维护者：aki-zukila
 更新时间：2026-02-07
 
@@ -139,6 +139,8 @@ Eastern continent：东大陆
 Western continent：西大陆
 Saint：圣子
 Super Rock Villa=超级巨石别墅
+//同人可能会出现
+Caleism：凯尔教
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
