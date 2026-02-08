@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.01
 维护者：aki-zukila
 更新时间：2026-02-07
 
@@ -38,9 +38,11 @@ Rosalyn：罗莎琳
 Lock：洛克
 Jour Thames=朱尔·泰晤士
 Drew Thames=朱尔·泰晤士
-Clophe Sekka=克罗佩·塞卡
+Clophe Sekka=克洛佩·塞卡
+Clopeh=克洛佩
 Bud Illis=巴德·伊利斯
 Billos：比洛斯
+
 Taylor Stan=泰勒·斯坦
 Toonka：图恩卡
 Paseton：帕塞顿
@@ -57,6 +59,7 @@ Tasha：塔莎
 Zed Crossman=泽德·克罗斯曼
 Odeus Flynn=奥德乌斯·弗林
 Litana：莉塔娜
+Jopis Molden=乔皮斯·莫尔登
 Venion Stean=贝尼温·斯坦
 Neo Tolz=尼奥·托里斯
 Redika：雷迪卡
@@ -76,7 +79,7 @@ Mila：米拉
 Rasheel：拉谢尔
 Sherit：谢莉忒
 Kim Min Ah：金敏雅
-Glenn Poeff=格林·波夫
+Glenn Poeff=格林·帕夫
 Sonta Gyerre=索纳塔·吉耶尔
 Antonio Gyerre=安东尼奥·吉耶尔
 Shawn：肖恩
@@ -110,6 +113,7 @@ Lee：李
 Alber：阿尔贝
 Alver：阿尔贝
 Kyle：凯尔
+Dragon Half-Blood=龙混血
 //其他特殊词汇
 Hyung: 哥
 Noona: 姐
