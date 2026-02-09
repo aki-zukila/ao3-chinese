@@ -1,4 +1,4 @@
-版本号：1.0.11
+版本号：1.0.12
 维护者：aki-zukila
 更新时间：2026-02-07
 
@@ -32,6 +32,7 @@ Basen：巴森
 Lily：莉莉
 Violan：维奥兰
 Arche：阿奇
+Archie：阿奇
 White Star：白星
 Cale Barrow=凯尔·巴罗
 Rosalyn：罗莎琳
